@@ -1,0 +1,10 @@
+﻿Tipo;Forma de pagamento;Valor total
+Consulta;Cartão de débito;R$ 1950
+Consulta;Dinheiro;R$ 850
+Consulta;Cartão de crédito;R$ 700
+Exame;Cartão de débito;R$ 3000
+Exame;Dinheiro;R$ 1300
+Exame;Cartão de crédito;R$ 1000
+Cirurgia;Cartão de débito;R$ 25000
+Cirurgia;Dinheiro;R$ 9000
+Cirurgia;Cartão de crédito;R$ 8000
